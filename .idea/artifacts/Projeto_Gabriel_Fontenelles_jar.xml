@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Projeto_Gabriel_Fontenelles:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Projeto_Gabriel_Fontenelles_jar</output-path>
+    <root id="archive" name="Projeto_Gabriel_Fontenelles.jar">
+      <element id="module-output" name="Projeto_Gabriel_Fontenelles" />
+    </root>
+  </artifact>
+</component>

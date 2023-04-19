@@ -4,10 +4,18 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6f4f0293-d57f-47cd-aa88-14811ccd8fe9" name="Changes" comment="atividade">
+    <list default="true" id="6f4f0293-d57f-47cd-aa88-14811ccd8fe9" name="Changes" comment="atividade_quiz">
+      <change afterPath="$PROJECT_DIR$/src/META-INF/MANIFEST.MF" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Cabecalho.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Cabecalho.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Perguntas.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Perguntas.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Projeto_Gabriel_Fontenelles/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Projeto_Gabriel_Fontenelles/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Projeto_Gabriel_Fontenelles/Projeto_Gabriel_Fontenelles/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Projeto_Gabriel_Fontenelles/Projeto_Gabriel_Fontenelles/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Projeto_Gabriel_Fontenelles/Projeto_Gabriel_Fontenelles/src/Cabecalho.java" beforeDir="false" afterPath="$PROJECT_DIR$/Projeto_Gabriel_Fontenelles/Projeto_Gabriel_Fontenelles/src/Cabecalho.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Projeto_Gabriel_Fontenelles/Projeto_Gabriel_Fontenelles/src/Perguntas.java" beforeDir="false" afterPath="$PROJECT_DIR$/Projeto_Gabriel_Fontenelles/Projeto_Gabriel_Fontenelles/src/Perguntas.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Projeto_Gabriel_Fontenelles/Projeto_Gabriel_Fontenelles/src/ProjetoGabrielFontenelles.java" beforeDir="false" afterPath="$PROJECT_DIR$/Projeto_Gabriel_Fontenelles/Projeto_Gabriel_Fontenelles/src/ProjetoGabrielFontenelles.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Projeto_Gabriel_Fontenelles/src/Cabecalho.java" beforeDir="false" afterPath="$PROJECT_DIR$/Projeto_Gabriel_Fontenelles/src/Cabecalho.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Projeto_Gabriel_Fontenelles/src/Perguntas.java" beforeDir="false" afterPath="$PROJECT_DIR$/Projeto_Gabriel_Fontenelles/src/Perguntas.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Projeto_Gabriel_Fontenelles/src/ProjetoGabrielFontenelles.java" beforeDir="false" afterPath="$PROJECT_DIR$/Projeto_Gabriel_Fontenelles/src/ProjetoGabrielFontenelles.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/ProjetoGabrielFontenelles.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ProjetoGabrielFontenelles.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -34,13 +42,18 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "last_opened_file_path": "C:/Users/gabrielsantos.FIEG/IdeaProjects/Projeto_Gabriel_Fontenelles"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/gabrielsantos.FIEG/IdeaProjects/Projeto_Gabriel_Fontenelles&quot;
   }
-}]]></component>
+}</component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\gabri\IdeaProjects\Projeto_Gabriel_Fontenelles\src" />
+    </key>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -57,13 +70,21 @@
       <option name="project" value="LOCAL" />
       <updated>1677933270573</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="atividade_quiz">
+      <created>1681483179794</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1681483179794</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Projeto_Gabriel_Fontenelles" />
     <MESSAGE value="atividade" />
-    <option name="LAST_COMMIT_MESSAGE" value="atividade" />
+    <MESSAGE value="atividade_quiz" />
+    <option name="LAST_COMMIT_MESSAGE" value="atividade_quiz" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/Projeto_Gabriel_Fontenelles$ProjetoGabrielFontenelles.ic" NAME="ProjetoGabrielFontenelles Coverage Results" MODIFIED="1678117415642" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
